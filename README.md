@@ -1,8 +1,8 @@
 # Development-of-Interactive-Cyber-Threat-Visualization-Dashboard
 Development Repository:(https://github.com/shrushrustim/cybersecurity-dashboard)
 ## 🎥 Project Demo
+https://github.com/user-attachments/assets/a6bde948-41a8-4866-a099-d0822cc45185
 
-[Watch Demo Video](./demo.mp4)
 
 The proposed project, Development of an Interactive Cyber Threat Visualization Dashboard, aims to design and implement a real-time, data-driven platform that provides cybersecurity analysts with a clear and intuitive view of the evolving threat landscape. Modern organizations face an overwhelming volume of security alerts and vulnerability information, making it difficult to quickly identify critical risks and emerging attack patterns. This project addresses that challenge by consolidating multiple streams of cyber threat intelligence into a unified, interactive visual environment.
 
